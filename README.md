@@ -22,3 +22,11 @@ Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détai
 
 Auteur
 Eurin hash.codeinformatique@gmail.com
+
+ Voici les étapes principales pour réaliser le projet de scraping de liens de groupe WhatsApp :
+
+Analyser les réseaux sociaux populaires pour trouver les publications contenant des liens de groupe WhatsApp.
+Extraire les liens de groupe WhatsApp à partir de ces publications.
+Stocker les liens extraits dans une base de données ou un fichier.
+Créer une interface utilisateur simple pour afficher les liens extraits.
+Mettre en place une automatisation pour que le programme puisse être exécuté régulièrement pour extraire de nouveaux liens.
